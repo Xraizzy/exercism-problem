@@ -1,16 +1,6 @@
 # exercism-problem
 
 
-C:\Users\kacpe>exercism configure --token=b254245d-6bcc-443d-8449-e82f43595f4e
-
-You have configured the Exercism command-line client:
-
-Config dir:                       C:\Users\kacpe\AppData\Roaming\exercism
-Token:         (-t, --token)      b254245d-6bcc-443d-8449-e82f43595f4e
-Workspace:     (-w, --workspace)  C:\Users\kacpe\Exercism
-API Base URL:  (-a, --api)        https://api.exercism.io/v1
-
-
 C:\Users\kacpe>exercism download --exercise=hello-world --track=python
 
 Downloaded to
